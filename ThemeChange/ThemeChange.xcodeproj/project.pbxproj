@@ -58,6 +58,7 @@
 		18854FE21C858AA400C71D1F /* ThemeChange */ = {
 			isa = PBXGroup;
 			children = (
+				18854FFC1C858B8600C71D1F /* XPThemeChange */,
 				18854FE61C858AA400C71D1F /* AppDelegate.h */,
 				18854FE71C858AA400C71D1F /* AppDelegate.m */,
 				18854FE91C858AA400C71D1F /* ViewController.h */,
@@ -77,6 +78,13 @@
 				18854FE41C858AA400C71D1F /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		18854FFC1C858B8600C71D1F /* XPThemeChange */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = XPThemeChange;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -298,6 +306,7 @@
 				18854FF91C858AA400C71D1F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
